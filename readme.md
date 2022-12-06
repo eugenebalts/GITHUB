@@ -2,4 +2,6 @@
 git status
 new text
 
-readme is fixxed
+readme is fixxegd
+
+
